@@ -1,2 +1,2 @@
-# Analisis_de_Datos2
+# Analisis_de_Datos
 Talento tech - Analisis de Datos - Intermedio
